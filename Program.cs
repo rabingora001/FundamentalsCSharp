@@ -12,7 +12,9 @@ namespace PracticeAlgo
             Rabin.say("pratesh");
 
             //calling method from other class into main class(that is non-static).
-
+            //static keyword by default creates objects; we can call static methods directly in the main method. 
+            //But if there is non-static method, we need to call it by creating object as below example:
+            
             Rabin sayHobby = new Rabin();
             sayHobby.Hobby("writing code", "pratesh");
 
