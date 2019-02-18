@@ -1,0 +1,11 @@
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/bin/Debug/netcoreapp2.1/PracticeAlgo.deps.json
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/bin/Debug/netcoreapp2.1/PracticeAlgo.runtimeconfig.json
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/bin/Debug/netcoreapp2.1/PracticeAlgo.runtimeconfig.dev.json
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/bin/Debug/netcoreapp2.1/PracticeAlgo.dll
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/bin/Debug/netcoreapp2.1/PracticeAlgo.pdb
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/obj/Debug/netcoreapp2.1/PracticeAlgo.csprojAssemblyReference.cache
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/obj/Debug/netcoreapp2.1/PracticeAlgo.csproj.CoreCompileInputs.cache
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/obj/Debug/netcoreapp2.1/PracticeAlgo.AssemblyInfoInputs.cache
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/obj/Debug/netcoreapp2.1/PracticeAlgo.AssemblyInfo.cs
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/obj/Debug/netcoreapp2.1/PracticeAlgo.dll
+/Users/rabingora001/Desktop/codingDojo/c#/PracticeAlgo/obj/Debug/netcoreapp2.1/PracticeAlgo.pdb
